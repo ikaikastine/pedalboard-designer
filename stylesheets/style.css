@@ -1,0 +1,25 @@
+#header {
+  z-index: 1;
+  position: fixed;
+  width: 97.5%;
+  height: 60px;
+  margin-bottom: 10px;
+  margin-top: -20px;
+  background-color: #668284;
+}
+
+#name {
+  float: left;
+  margin-left: 5px;
+  padding-top: 5px;
+  font-size: 25px;
+  color: #ffffff;
+}
+
+.board-view {
+
+}
+
+.navigation {
+
+}
