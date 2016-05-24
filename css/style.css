@@ -3,6 +3,10 @@
   width: 74%;
   min-height: 880px;
 }
+.board-image {
+  width: 50%;
+  height: 780px;
+}
 .jumbotron.designer {
   float: right;
   width: 25%;
