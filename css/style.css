@@ -17,3 +17,8 @@ body {
   min-height: 100%;
   padding-top: 70px;
 }
+
+.divider {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
