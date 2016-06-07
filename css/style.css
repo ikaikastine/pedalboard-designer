@@ -3,11 +3,14 @@
   width: 74%;
   min-height: 880px;
 }
-.board-image {
+#board-image {
   /* Width of pedalboard should be 940px */
-  width: 50%;
+  width: 88%; 
   height: 780px;
+  margin: 0 auto;
 }
+
+
 .jumbotron.designer {
   float: right;
   width: 25%;
