@@ -3,18 +3,19 @@
   width: 74%;
   min-height: 880px;
 }
+
 #board-image {
-  /* Width of 24 inch pedalboard should be 940px */
+  /* Width of 24 inch pedalboard should be 846px */
   height: 780px;
   margin: 0 auto;
 }
-
 
 .jumbotron.designer {
   float: right;
   width: 25%;
   min-height: 880px;
 }
+
 body {
   min-height: 100%;
   padding-top: 70px;
