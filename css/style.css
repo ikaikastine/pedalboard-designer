@@ -1,4 +1,7 @@
 .jumbotron.board-view {
+  background-image: url("../resources/pedalboards/pedaltrain/novo24.png");
+  background-size: contain;
+  background-repeat: no-repeat;
   float: left;
   width: 74%;
   min-height: 880px;
