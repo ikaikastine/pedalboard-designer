@@ -13,6 +13,12 @@
   margin: 0 auto;
 }
 
+#draggable-element {
+  padding:10px 12px;
+  cursor:move;
+  position:relative; /* important (all position that's not `static`) */
+}
+
 .jumbotron.designer {
   float: right;
   width: 25%;
